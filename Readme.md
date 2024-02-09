@@ -37,7 +37,7 @@ On the command line, do the following, one line at a time:
 
 What do we see here?
 
-## Break into teams
+## Solo Exercise
 
 We'll continue our exercise solo.
 
