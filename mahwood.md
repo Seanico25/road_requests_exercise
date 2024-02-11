@@ -1,8 +1,7 @@
-For this assignment i have chosen the _Civil Rights History Project_ collection. This collect contains 158 items but only 157 are available online. The collect covers historical views on the movement for equality for African Americans which gained transaction in 1955 when the murder of a fourteen year African American boy which galvanized many young people into joining the movement.
-The collect is made up of:
-	**video files**
-	**images**
-	**web articles**
+For this assignment i have chosen the _Civil Rights History Project_ collection. This collect contains 158 items but only 157 are available online. The collect covers historical views on the movement for equality for African Americans which gained traction in 1955 when the murder of a fourteen year African American boy galvanized many young people into joining the movement.
+
+The collect is made up of video files,images and web articles.
+
 I like how the site caters to people with disability with the read to me function available on the home pages. While reviewing some of the video interviews i found the the interviewer Mr Mosnier voice is too low at least compared to the interviewee. i had to put in earbubs to hear the question he was asking.
 
 ### Json Format
