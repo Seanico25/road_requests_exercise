@@ -18,7 +18,7 @@ https://www.loc.gov/collections/cities-and-towns (Highly recommend).
 
 ## Command-line View
 * The command line is a user interface navigated using commands at prompts, instead of using a mouse for the average user its harder to understand and may cause alot of confusion for the end user.
-* In my opinion the comman line view is harder as was stated but for person with the knowledge it would be way easier, its all about a learning process when it comes to this and no one will be boss at this within a day so its a learning curve. 
+* In my opinion the command line view is harder as was stated but for person with the knowledge it would be way easier, its all about a learning process when it comes to this and no one will be boss at this within a day so its a learning curve. 
 
 
 
