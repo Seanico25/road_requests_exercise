@@ -12,10 +12,13 @@ https://www.loc.gov/collections/cities-and-towns (Highly recommend).
   
 ## WebPage Understanding
 
-* A list of items on the collection "Cities-and-Towns is diplayed with an image and text with a title and a short description on the right hand side of the page so the person viewing can qickly see what they are viewing.
+* A list of items on the collection "Cities-and-Towns is diplayed with an image and text with a title and a short description on the right hand side of the page so the person viewing can qickly see what they are viewing which is user friendly.
 * On your screen the viewer its a list of data types you can use to search up such as: online format and original format, etc you name it they will find it. In the JSON format you the viewer can access multiple pages with up to 25 links .
+* In my opinion this web page view is much easier to understand and navigate.
 
 ## Command-line View
+*The command line is a user interface navigated using commands at prompts, instead of using a mouse for the average user its harder to understand and may cause alot of confusion for the end user.
+*In my opinion the comman line view is harder as was stated but for person with the knowledge it would be way easier, its all about a learning process when it comes to this and no one will be boss at this within a day so its a learning curve. 
 
 
 
