@@ -1,6 +1,6 @@
 # Wright Brothers Negatives Collection
 
-![Reader641_1](/assets/Reader641_1)
+![Reader641_1](/assets/Reader641_1.png)
 
 https://www.loc.gov/collections/wright-brothers-negatives
 
