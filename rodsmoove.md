@@ -34,3 +34,7 @@
 
 **About this Collection**: The core of this presentation consists of "stock" arrangements for bands or small orchestras of popular songs written by African Americans.
 
+**website review**: while exploring this collection on the website there's alot to see. Images of record covers along with sheets of music, In addition they also have a smaller selection of historic sound recordings illustrating these sounds and many others by the same composers. 
+In short, the website view represents a visual presentation. 
+
+
