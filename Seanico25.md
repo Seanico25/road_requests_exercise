@@ -2,7 +2,7 @@
  
 
 > My collections for this assignment  was "Cities-and-Towns" i thught it was very interesting, the link to it in webpage format is:
-https://www.loc.gov/collections/cities-and-towns very.
+https://www.loc.gov/collections/cities-and-towns (Highly recommend).
 
 
 ## Findings on JSON view
