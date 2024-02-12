@@ -12,7 +12,7 @@ The page has a header and this is followed by two sections. At the top of the pa
 The *page header* consists of the **name of the organization** in large bold font. There is also a **search-box** where a user can query several broad preset categories which are displayed in a dropdown menu. Finally, to the far left of the header is a **menu of services**.
 
 ### Top Section of the Web Page
-In the top section of the page, the content consist of images and associated text which are displayed horizontaly. A right and left arrow, enables the user to scroll right or left to select a collection.
+In the top section of the page, the content consist of images and associated text which are displayed horizontaly. A right and left arrow, enables the user to scroll right or left to select a collection. For each collection the image displayed are small but clean and clear. A user can access information on a collection by selecting the image/text displayed which directs them o additional images and reading resources for the specified collection.  
 
  
 
