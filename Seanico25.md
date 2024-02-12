@@ -7,8 +7,7 @@ https://www.loc.gov/collections/cities-and-towns (Highly recommend).
 
 ## Findings on JSON view
 * This format is a self-describing and for some very easy to understand it also has various software tools to help navigate throught this program.
-* JSON data is written as name/value pairs, just like JavaScript object properties, A name/value pair consists of a field name (in double quotes), followed by a colon, followed by a value 
-  so far its pretty easy to get the hang off.
+* JSON data is written as name/value pairs, just like JavaScript object properties, A name/value pair consists of a field name (in double quotes), followed by a colon, followed by a value, so far its pretty easy to get the hang off.
 
   
 ## WebPage Understanding
