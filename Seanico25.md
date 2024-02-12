@@ -13,7 +13,7 @@ https://www.loc.gov/collections/cities-and-towns (Highly recommend).
 ## WebPage Understanding
 
 * A list of items on the collection "Cities-and-Towns is diplayed with an image and text with a title and a short description on the right hand side of the page so the person viewing can qickly see what they are viewing.
-* On your screen the viewer its a list of data types you can use to search up such as: online format and original format, etc you name it they will find it. In the JSON format you the viewer can access multiple pages with up to 25 pages .
+* On your screen the viewer its a list of data types you can use to search up such as: online format and original format, etc you name it they will find it. In the JSON format you the viewer can access multiple pages with up to 25 links .
 
 ## Command-line View
 
