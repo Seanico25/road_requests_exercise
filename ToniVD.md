@@ -4,7 +4,7 @@ https://www.loc.gov/collections/food-and-foodways-web-archive/
 
 ## Normal Webpage View
 
-* There's options to filter the type of collection items seen and how these items are displayed (i.e. in a list or gallery etc.)
+* There are options to filter the type of collection items seen and how these items are displayed (i.e. in a list or gallery etc.)
   
 * Each collection item displayed has a brief description and title which makes it easy for the web user to identify a specific item.
   
