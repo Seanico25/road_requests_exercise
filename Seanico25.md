@@ -16,7 +16,7 @@ https://www.loc.gov/collections/cities-and-towns (Highly recommend).
   
 ## WebPage Understanding
 
-* A list of items on the collection "Cities-and-Towns" is diplayed with an image, text, title and a short description on the right hand side of the page. This allows the person viewing to qickly see a snap shot of what they are viewing. It is also user friendly, which is a positive.
+* A list of items on the collection "Cities-and-Towns" is diplayed with an image, text, title and a short description on the right hand side of the page. This allows the person viewing to quickly see a snap shot of what they are viewing. It is also user friendly, which is a positive.
 * On the screen, the viewer sees a list of data types that can be used to search topics such as: online format and original format, etc. It's quite useful, just name it and the system will find it. In the JSON format, the viewer can also access multiple pages with up to 25 links. This is helpful when searching more than one topic without losng the web page for a different one.
 * In my opinion this web page view is much easier to understand and navigate.
 
